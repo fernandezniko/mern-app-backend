@@ -16,3 +16,15 @@ Fue desarrollada utilizando:
 
 La aplicacion de encuentra actualmente deployada en el siguiente link: 
 [MERN-Api](https://fernandez-mern-app.herokuapp.com/)
+
+## API Endpoint
+| Metodo | Endpoint              | Acceso  | Descripcion   |
+| ------ | --------------------- | ------- | ------------- |
+| GET    | /api/users            | Publico | Retorna una lista de todos los usuarios |
+| POST   | /api/users/signup     | Publico | Crear un nuevo usuario + log in |
+| POST   | /api/users/login      | Publico | Iniciar Sesion |
+| GET    | /api/places/user/:uid | Publico | Retorna una lista de todos los lugares para un determinado user id (uid) |
+| GET    | /api/places/:pid      | Publico | Mirar un lugar especifico por place id (pid) |
+| POST   | /api/places           | Privado | Crear un nuevo lugar |
+| PATCH  | /api/places/:pid      | Privado | Actualizar un lugar por place id (pid) |
+| DELETE | /api/places/:pid      | Privado | Eliminar un lugar place id (pid) |
