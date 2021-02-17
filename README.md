@@ -14,7 +14,7 @@ Fue desarrollada utilizando:
 * Postman para las pruebas de los HTTP request a los distintos endpoints 
 * Heroku
 
-La aplicacion de encuentra actualmente deployada en el siguiente link: 
+La aplicacion se encuentra actualmente deployada en el siguiente link: 
 [MERN-Api](https://fernandez-mern-app.herokuapp.com/)
 
 ## API Endpoint
