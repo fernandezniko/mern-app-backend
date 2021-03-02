@@ -14,7 +14,7 @@ Fue desarrollada utilizando:
 * Postman para las pruebas de los HTTP request a los distintos endpoints 
 * Heroku
 
-La aplicacion se encuentra actualmente deployada en el siguiente link: 
+La aplicacion se encuentra actualmente en : 
 [MERN-Api](https://fernandez-mern-app.herokuapp.com/)
 
 ## API Endpoint
@@ -30,5 +30,5 @@ La aplicacion se encuentra actualmente deployada en el siguiente link:
 | DELETE | /api/places/:pid      | Eliminar un lugar place id (pid) |
 
 ## FrontEnd
-El repositorio del codigo front-end se encuentra en el siguiente link:
+El repositorio del codigo front-end se encuentra en:
 [Front-End](https://github.com/fernandezniko/mern-app-frontend)
