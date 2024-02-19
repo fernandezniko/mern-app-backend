@@ -12,7 +12,6 @@ Fue desarrollada utilizando:
 * Mongo DB, Mongoose
 * Mongo DB Atlas  
 * Postman para las pruebas de los HTTP request a los distintos endpoints 
-* Heroku
 
 La aplicacion se encuentra actualmente en : 
 [MERN-Api](https://fernandez-mern-app.herokuapp.com/)
